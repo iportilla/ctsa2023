@@ -1,4 +1,13 @@
-# ctsa2023
+# Colorado Technology Student Association
+
+## About Us
+
+### What is CTSA?
+
+The Colorado Technology Student Association (CTSA) is a student organization that provides students with the opportunity to explore and develop their skills in the field of technology. 
+
+(MTSFT Visit 2023)[imgs/CTSA.png]
+
 Visit to Microsoft during the Colorado Technology Student Association conference 2023
 
 
