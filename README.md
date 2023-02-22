@@ -11,7 +11,9 @@ The Colorado Technology Student Association (CTSA) is a student organization tha
 ### Demos
 
 [Furhat Robotics Demo with Azure Cognitive Services](https://www.youtube.com/watch?v=sKiowJ_5yME)
+
 [Low code/No code Demo](https://www.lobe.ai/)
+
 [ChatGPT/OpenAI Demo](https://githubnext.com/projects/hey-github/)
 
 __Visit to Microsoft during the Colorado Technology Student Association conference 2023__
